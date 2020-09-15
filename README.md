@@ -54,3 +54,5 @@ Firstly, the funding outcomes of all three Theater subcategories, Plays, Musical
 Secondly, the funding success of each subcategory could have been reviewed based on launch date and goals.
 This approach would have provided "an apples to apples" comparison of the Theater subcategories.
 If desired, the analyses could have been further comminuted by staff pick, spotlight, country or launched year.
+
+[Module 1 Kickstarter Challenge.xlsx](Mod_1_Kickstarter_Challenge.zip)
